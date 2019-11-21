@@ -1,5 +1,5 @@
 [options]
-font =  Noto Mono 12
+font =  Ubuntu Mono 12
 
 [colors]
 background = rgba(63, 63, 63, 0.5)
