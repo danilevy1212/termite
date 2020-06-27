@@ -1,0 +1,7 @@
+* Termite config
+
+** Special Thanks
+
+Colors for one-dark are from: [[ynj0/onedark-termite][https://github.com/ynj0/onedark-termite]]
+
+Colors for nord are from: [[https://github.com/arcticicestudio/nord-termite][arcticicestudio/nord-termite]]
